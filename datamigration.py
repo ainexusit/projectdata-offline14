@@ -1,2 +1,2 @@
 def dm():
-    pass
+    print("Hello")
